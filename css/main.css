@@ -2042,4 +2042,5 @@ section {
 .btn-get-more {
   border: solid;
   border-color: rgb(50, 116, 238);
+  width: fit-content;
 }
