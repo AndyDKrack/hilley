@@ -2041,7 +2041,7 @@ section {
 
 .btn-get-more {
   border: solid;
-  border-color: rgb(50, 116, 238);
+  border-color: rgba(0, 114, 254, 0.997);
   width: fit-content;
   border-radius: 8px;
   padding: 10px 10px 10px 10px;
