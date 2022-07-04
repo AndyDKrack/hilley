@@ -2038,3 +2038,8 @@ section {
 .fa-brands {
   font-size: 20px !important;
 }
+
+.btm-get-more {
+  border: solid;
+  border-color: rgb(50, 116, 238);
+}
